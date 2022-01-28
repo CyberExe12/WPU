@@ -912,7 +912,7 @@ h3.happy:hover {
   #code
   {
     position: absolute;
-    transform: translateY(-150%);
+    transform: translateY(-50%);
     left: 5%;
     font-size: 30px;
     width: 80%;
@@ -934,3 +934,5 @@ h3.happy:hover {
   }
 
 }
+
+/* zoom */
